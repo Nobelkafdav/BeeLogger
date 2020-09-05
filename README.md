@@ -16,7 +16,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 ### Cloning:
 ```
-git clone https://github.com/4w4k3/BeeLogger.git
+git clone https://github.com/Nobelkafdav/BeeLogger.git
 ```
 
 ### Running:
